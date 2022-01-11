@@ -3,7 +3,7 @@ import React from "react";
 import "./cat.css";
 import Catpic from "./catpic.jsx";
 //import TotalCount from "./cart.jsx"
-import Buttons from "./buttons.jsx";
+//import Buttons from "./buttons.jsx";
 
 const Cat = () => {
   return (

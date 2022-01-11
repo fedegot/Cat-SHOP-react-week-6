@@ -1,5 +1,5 @@
-import { useEffect, useState  } from "react";
-import ReactDOM from "react";
+import { useState  } from "react";
+
 // import { render } from "react-dom";
 import "../App.css";
   
@@ -15,7 +15,7 @@ const Buttons = () => {
         setCount(prevcount=> prevcount -1);
     };
 
-   
+   setCount = count
     return (
         <div>
         <div>
